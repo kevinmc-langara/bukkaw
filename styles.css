@@ -1,4 +1,6 @@
-
+body {
+  background-img: linear-gradient(hotpink, yellow, #eef, hotpink);
+}
 
 .image-gallery {
   display: grid;
